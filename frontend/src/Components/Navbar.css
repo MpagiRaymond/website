@@ -1,0 +1,15 @@
+nav{
+    height: 100%;
+    width: 100%;
+    background-color: #28559A;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li{
+    list-style: none;
+    display: inline-flex;
+    gap: 0.5rem;
+}
